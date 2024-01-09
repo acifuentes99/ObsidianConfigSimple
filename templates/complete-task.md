@@ -1,0 +1,1 @@
+* [ ] [created::{{date:YYYY-MM-DD}}]. [due::{{date:YYYY-MM-DD}}]. [priority::low]
